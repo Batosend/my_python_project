@@ -1,2 +1,2 @@
-#øльный код только тута
-print("Hello world")
+#Теперь все работает
+print("Hello suka")
