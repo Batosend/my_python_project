@@ -1,2 +1,2 @@
 #Теперь все работает
-print("Hello suka")
+print("Hello suchara pozornaya")
